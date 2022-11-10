@@ -4,6 +4,8 @@ Desktop.ini
 
 # Dataset Directory
 lung_colon_image_set/**
+model/**
+weight_improvement/88
 
 # Thumbnail cache files
 ._*
@@ -23,3 +25,4 @@ Thumbs.db
 venv
 node_modules
 .sass-cache
+*.hdf5
