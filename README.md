@@ -21,4 +21,4 @@ There are five classes in the dataset, each with 5,000 images, being:
 -   Lung squamous cell carcinoma
 -   Colon adenocarcinoma
 -   Colon benign tissue
-[Download dataset ](https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af)
+</br>[Download dataset ](https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af)
